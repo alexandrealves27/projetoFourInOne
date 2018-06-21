@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FourInOne</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="localizacao">Localização</string>
+    <string name="navegador">Mozila Chrome Fox</string>
+    <string name="agenda">Contatos</string>
+    <string name="about">Sobre</string>
+
+
+    <string name="campo1">Digite o primeiro valor:</string>
+    <string name="campo2">Digite o segundo valor:</string>
+    <string name="somar">Somar(+)</string>
+    <string name="subtrair">Subtrair(-)</string>
+    <string name="multiplicar">Multiplicar(*)</string>
+    <string name="dividir">Dividir(/)</string>
+    <string name="porcentagem">Porcentagem(%)</string>
+    <string name="resultado">Resultado:</string>
+    <string name="calcular">Calcular</string>
+    <string name="voltar">Voltar ao Menu</string>
+
+    <string name="go">Entrar</string>
+    <string name="title_activity_localizacao">Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="intro_text">Swipe edge to exit the map.</string>
+</resources>

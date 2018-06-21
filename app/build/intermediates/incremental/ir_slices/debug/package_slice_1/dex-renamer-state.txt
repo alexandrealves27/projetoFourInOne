@@ -1,0 +1,4 @@
+#Thu Jun 21 15:58:00 BRT 2018
+base.0=/home/alexandre/AndroidStudioProjects/FourInOne/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
